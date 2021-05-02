@@ -1,0 +1,15 @@
+.root
+{
+    /*All things*/
+    -fx-background-color: darkslategray;
+    -fx-font-size: 14pt;
+    /*Gradient
+        linear-gradient(from 10px 10px to 400px 400px, colour colour
+    */
+}
+
+.button
+{
+    /*rounded*/
+    -fx-border-radius: 10px;
+}
